@@ -26,5 +26,32 @@ div.TakaPost {
   color: black;
   padding: 10px;
   margin-top: 123px;
-  width: 400px;
+  width: 350px;
+  max-height: 500px;
+  overflow-y: scroll;
+}
+div.TakaPost ::-webkit-scrollbar {
+  width: 5px;
+}
+div.TakaPost ::-webkit-scrollbar-thumb {
+  background: dodgerblue;
+  border: 0px solid #ffffff;
+  border-radius: 0px;
+}
+div.TakaPost ::-webkit-scrollbar-thumb:hover {
+  background: dimgray;
+}
+div.TakaPost ::-webkit-scrollbar-thumb:active {
+  background: #FFFFFF;
+}
+div.TakaPost ::-webkit-scrollbar-track {
+  background: #666666;
+  border: 0px dashed #ffffff;
+  border-radius: 0px;
+}
+div.TakaPost ::-webkit-scrollbar-track:hover {
+  background: #666666;
+}
+div.TakaPost ::-webkit-scrollbar-track:active {
+  background: #333333;
 }
