@@ -18,6 +18,10 @@ div.TakaPort {
   background-image: url("http://i.imgur.com/gEY7nE4.png");
   float: right;
 }
+div.TakaRght {
+  float: right;
+  margin-top: 123px;
+}
 div.TakaPost {
   background-image: url("http://i.imgur.com/VxsROty.png");
   border: 4px ridge;
