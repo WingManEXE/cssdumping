@@ -22,7 +22,7 @@ div.TakaPort {
 div.TakaRght {
     float: right;
     margin-top: -38px;
-    margin-right: -133px;
+    margin-right: -153px;
 }
 div.TakaPost {
   background-image: url("http://i.imgur.com/VxsROty.png");
@@ -69,7 +69,8 @@ div.TakaWord {
   color: black;
   padding: 10px;
   width: 150px;
-  height: 70px;
+  height: 59px;
   float: right;
   text-align: center;
+  margin-top: -112px;
 }
