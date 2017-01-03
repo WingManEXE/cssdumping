@@ -12,17 +12,17 @@ div.TakaName {
   float: left;
 }
 div.TakaPort {
-  height: 100px;
-  width: 100px;
+  height: 120px;
+  width: 120px;
   border: 4px ridge;
   border-color: white;
-  background-image: url("http://i.imgur.com/gEY7nE4.png");
+  background-image: url("http://i.imgur.com/xBUSdPe.png");
   float: right;
 }
 div.TakaRght {
     float: right;
-    margin-top: -64px;
-    margin-left: 87px;
+    margin-top: -38px;
+    margin-right: -133px;
 }
 div.TakaPost {
   background-image: url("http://i.imgur.com/VxsROty.png");
@@ -69,9 +69,7 @@ div.TakaWord {
   color: black;
   padding: 10px;
   width: 150px;
-  height: 100px;
-  overflow-y: scroll;
+  height: 70px;
   float: right;
   text-align: center;
-  vertical-align: middle;
 }
