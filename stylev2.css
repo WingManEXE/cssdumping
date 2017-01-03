@@ -22,7 +22,7 @@ div.TakaPort {
 div.TakaRght {
     float: right;
     margin-top: -64px;
-    margin-left: 61px;
+    margin-left: 87px;
 }
 div.TakaPost {
   background-image: url("http://i.imgur.com/VxsROty.png");
@@ -61,4 +61,17 @@ div.TakaPost::-webkit-scrollbar-track:hover {
 }
 div.TakaPost::-webkit-scrollbar-track:active {
   background: #333333;
+}
+div.TakaWord {
+  background-image: url("http://i.imgur.com/VxsROty.png");
+  border: 4px ridge;
+  border-color: white;
+  color: black;
+  padding: 10px;
+  width: 150px;
+  height: 100px;
+  overflow-y: scroll;
+  float: right;
+  text-align: center;
+  vertical-align: middle;
 }
