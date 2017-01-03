@@ -1,29 +1,30 @@
 div.TakaBack {
-background-image: url("http://i.imgur.com/KDaco8o.gif");
-background-color: dodgerblue;
-border: 10px double;
-border-color: dodgerblue;
-border-radius: 20px;
-padding: 15px;
+  background-image: url("http://i.imgur.com/KDaco8o.gif");
+  background-color: dodgerblue;
+  border: 10px double;
+  border-color: dodgerblue;
+  border-radius: 20px;
+  padding: 15px;
 }
 div.TakaName {
-margin-top: 15px;
-float: left;
+  margin-top: 15px;
+  float: left;
 }
 div.TakaPort {
-height: 100px;
-width: 100px;
-border: 4px ridge;
-border-color: white;
-background-image: url("http://i.imgur.com/gEY7nE4.png");
-float: right;
+  height: 100px;
+  width: 100px;
+  border: 4px ridge;
+  border-color: white;
+  background-image: url("http://i.imgur.com/gEY7nE4.png");
+  float: right;
 }
 div.TakaPost {
-background-image: url("http://i.imgur.com/VxsROty.png");
-border: 4px ridge;
-border-color: white;
-min-height: 300px;
-color: black;
-padding: 10px;
-margin-top: 123px;
+  background-image: url("http://i.imgur.com/VxsROty.png");
+  border: 4px ridge;
+  border-color: white;
+  min-height: 300px;
+  color: black;
+  padding: 10px;
+  margin-top: 123px;
+  width: 400px;
 }
