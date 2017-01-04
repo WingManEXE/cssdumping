@@ -43,7 +43,7 @@ div.LucyPost::-webkit-scrollbar {
   width: 5px;
 }
 div.LucyPost::-webkit-scrollbar-thumb {
-  background: dodgerblue;
+  background: steelblue;
   border: 0px solid #ffffff;
   border-radius: 0px;
 }
