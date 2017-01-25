@@ -37,34 +37,34 @@ div.LucyPost {
   width: 350px;
   max-height: 500px;
   float: left;
+  overflow-y: scroll;
 }
 div.LucyText {
-  overflow-y: scroll;
   padding: 10px;
 }
-div.LucyText::-webkit-scrollbar {
+div.LucyPost::-webkit-scrollbar {
   width: 5px;
 }
-div.LucyText::-webkit-scrollbar-thumb {
+div.LucyPost::-webkit-scrollbar-thumb {
   background: steelblue;
   border: 0px solid #ffffff;
   border-radius: 0px;
 }
-div.LucyText::-webkit-scrollbar-thumb:hover {
+div.LucyPost::-webkit-scrollbar-thumb:hover {
   background: dimgray;
 }
-div.LucyText::-webkit-scrollbar-thumb:active {
+div.LucyPost::-webkit-scrollbar-thumb:active {
   background: #FFFFFF;
 }
-div.LucyText::-webkit-scrollbar-track {
+div.LucyPost::-webkit-scrollbar-track {
   background: #666666;
   border: 0px dashed #ffffff;
   border-radius: 0px;
 }
-div.LucyText::-webkit-scrollbar-track:hover {
+div.LucyPost::-webkit-scrollbar-track:hover {
   background: #666666;
 }
-div.LucyText::-webkit-scrollbar-track:active {
+div.LucyPost::-webkit-scrollbar-track:active {
   background: #333333;
 }
 div.LucyWord {
