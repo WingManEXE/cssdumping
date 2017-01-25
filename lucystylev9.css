@@ -28,7 +28,7 @@ div.LucyRght {
     margin-right: -33px;
 }
 div.LucyPost {
-  background-image: url("http://i.imgur.com/VxsROty.png");
+  background-color: rgba(220, 220, 220, 0.8);
   border: 4px ridge;
   border-color: white;
   min-height: 300px;
