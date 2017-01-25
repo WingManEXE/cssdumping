@@ -33,36 +33,38 @@ div.LucyPost {
   border-color: white;
   min-height: 300px;
   color: black;
-  padding: 10px;
   margin-top: -553px;
   width: 350px;
   max-height: 500px;
-  overflow-y: scroll;
   float: left;
 }
-div.LucyPost::-webkit-scrollbar {
+div.LucyText {
+  overflow-y: scroll;
+  padding: 10px;
+}
+div.LucyText::-webkit-scrollbar {
   width: 5px;
 }
-div.LucyPost::-webkit-scrollbar-thumb {
+div.LucyText::-webkit-scrollbar-thumb {
   background: steelblue;
   border: 0px solid #ffffff;
   border-radius: 0px;
 }
-div.LucyPost::-webkit-scrollbar-thumb:hover {
+div.LucyText::-webkit-scrollbar-thumb:hover {
   background: dimgray;
 }
-div.LucyPost::-webkit-scrollbar-thumb:active {
+div.LucyText::-webkit-scrollbar-thumb:active {
   background: #FFFFFF;
 }
-div.LucyPost::-webkit-scrollbar-track {
+div.LucyText::-webkit-scrollbar-track {
   background: #666666;
   border: 0px dashed #ffffff;
   border-radius: 0px;
 }
-div.LucyPost::-webkit-scrollbar-track:hover {
+div.LucyText::-webkit-scrollbar-track:hover {
   background: #666666;
 }
-div.LucyPost::-webkit-scrollbar-track:active {
+div.LucyText::-webkit-scrollbar-track:active {
   background: #333333;
 }
 div.LucyWord {
